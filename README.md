@@ -50,7 +50,7 @@ Some model weights are newly initialized and fine-tuning is required for better 
 
 Developed by Sayed Hamidullah Fazlly
 
-M. Sc. Web & Data Scienc (On-going)
+M. Sc. Web & Data Science (On-going)
 
 University of Koblenz, Germany
 
